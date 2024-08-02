@@ -3,3 +3,5 @@
 3.- Tu diario
 4.- Se agregó una función en pruebas
 5.- Se modificó la función en pruebas
+6.- Se agregó una nueva funcionalidad
+7.- Se agregó una segunda funcionalidad
