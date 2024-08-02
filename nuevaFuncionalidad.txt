@@ -4,3 +4,10 @@ def suma(a, b):
 
 result = suma(1, 2)
 # result = 3
+
+def duplica(num):
+    x = num * 2
+    return x
+
+print(x)  # error - x no está definida
+print(duplica(4))  # muestra 8
