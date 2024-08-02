@@ -1,5 +1,7 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
-4.- Se agregó una nueva funcionalidad
-5.- Se agregó una segunda funcionalidad
+4.- Se agregó una función en pruebas
+5.- Se modificó la función en pruebas
+6.- Se agregó una nueva funcionalidad
+7.- Se agregó una segunda funcionalidad
