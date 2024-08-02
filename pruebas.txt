@@ -1,14 +1,14 @@
 # función sin parámetros o retorno de valores
 def diHola():
-  print("Hello!")
+  print("HOLA!")
 
-diHola()  # llamada a la función, 'Hello!' se muestra en la consola
+diHola()  # llamada a la función, 'HOLA!' se muestra en la consola
 
 # función con un parámetro
 def holaConNombre(name):
-  print("Hello " + name + "!")
+  print("HOLA " + name + "!")
 
-holaConNombre("Ada")  # llamada a la función, 'Hello Ada!' se muestra en la consola
+holaConNombre("Ada")  # llamada a la función, 'HOLA Ada!' se muestra en la consola
 
 # función con múltiples parámetros con una sentencia de retorno
 def multiplica(val1, val2):

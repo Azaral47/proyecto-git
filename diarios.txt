@@ -2,3 +2,4 @@
 2.- Actualizado diario Sarosi
 3.- Tu diario
 4.- Se agregó una función en pruebas
+5.- Se modificó la función en pruebas
